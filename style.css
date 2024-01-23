@@ -10,6 +10,16 @@ body
     
     
 }
+#button-a
+{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(45deg,yellow,red);
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: 700;
+
+}
 #sp
 {
     color:orange;
